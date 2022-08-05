@@ -1,0 +1,21 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+Variables
+Strings
+Funciones (argumentos, return)
+Declaraciones if
+Valores booleanos (true, false)
+
+Variables son espacios donde podemos guardar datos y luego utilizarlos. Se crean con la palabra clave var seguida del nombre 
+que le queramos colocar a la variable. Se le asignan valores, con el signo igual.
+
+Strings, es un dato de tipo texto. Cuaulquier cadena de caracteres entre comillas, es un string. Ej: '9uyt12' es un string.
+
+Funciones son objetos que luego se pueden invocar. Pueden recibir argumentos (con los que trabajan dentro de la función) o no.
+Las funciones son sentencias (statemants), o sea que hacen algo. Se declaran sin nombre o con nombre. Luego para invocarlas, se hace con paréntesis. 
+Por ej. devuelveSuma(num1,num2); Pueden devolver un valor a través de la declaración return. Con return, se corta la ejecuución de la función y se sale de ella.
+Las variables que se declaran dentro de una función, no se pueden acceder fuera de ella.
+
+If es una declaración condicional, que podemos utilizar dentro de una función. Hace algo de acuerdo a si la condición que tiene entre paréntesis, devuelve true. sino, hace otra cosa o retorna algo. 
+
+Valores booleanos son un tipo de datos. 
+Se refiere a la lógica booleana de 0 y 1. que tiene dos estados: true o false. Como funcionan las computadoras.
