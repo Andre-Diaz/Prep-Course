@@ -1,0 +1,24 @@
+
+La expresión for, es un bloque de código que se repite mientras se cumpla la condición que se 
+declara entre paréntesis. La sintaxis de este bucle, es la siguiente:
+Primero colocamos la palabra clave for, seguida de un paréntesis, en el cual declaramos 3 cosas.
+La primera es uuna variable inicial, gralmente la llamamos i. Le otorgamos un valor. Luego, 
+separado por un punto y coma, colocamos la condición que se tiene que cumplir, para que el bucle se
+siga ejecutando. Cuando no se cumpla, sale del bucle.
+Y lo tercero que colocamos en ese paréntesis, también separado por punto y coma, es el incremento
+de la variable i en uno (i++).
+
+Después del paréntesis, se abren unas llaves, que será el lugar donde escribimos el código a 
+ejecutar, luego se colocan las llaves para cerrar el bloque de código for.
+
+ej: 
+for (i= 0; i<= 4;i++){
+    console.log ('variable i = ' + i);
+}
+
+Los signos &&, ||, !, son operadores lógicos que devuelven true o false, al analizar expresiones.
+
+El operador &&  (Y ) devuelve true, si todas las expresiones son ciertas. 
+El operados || (O) devuelve true, si alguna de las expresiones son ciertas.
+El operador ! ( no) devuelve lo contrario de lo que devuelve la expres¡ón.Ejemplo, si la expresión
+devuelve true, al colocarle el signo ! por delante, quedará en false.
